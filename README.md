@@ -1,7 +1,6 @@
-# my_favorites
-## Top 5 
-1. ghl
-2. df
-3. df
-4. df
-5. df
+## Top 5 RedBull
+1. Kaktusfeige
+2. Heidelbeere
+3. Granatapfel
+4. Apfel-Feige
+5. -
