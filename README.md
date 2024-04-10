@@ -3,5 +3,4 @@
 2. Heidelbeere
 3. Granatapfel
 4. Apfel-Feige
-5. Waldbeerre sugarfree
-
+5. Waldbeere sugarfree
